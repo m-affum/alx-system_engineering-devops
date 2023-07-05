@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'You have changed to $(cd) (~)'
+cd ~
